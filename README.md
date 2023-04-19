@@ -45,7 +45,7 @@ The best parameters of SVC for the given dataset are:
 The above parameter gave a maximum accuracy of 0.89.\
 
 ## Convergence Graph
-![graph]
+![graph](https://github.com/ree553/Parameter-Optimization-SVM/blob/main/output.png?raw=true)
 
 Mudrika Jain <br>
 102017143<br>
