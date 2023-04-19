@@ -42,13 +42,14 @@ The best parameters of SVC for the given dataset are:
 - Nu : 1.80  
 - Epsilon : 4.96   
 
-The above parameter gave a maximum accuracy of 0.89.\
+The above parameter gave a maximum accuracy of 0.89.
 
 ## Convergence Graph
 ![graph](https://github.com/ree553/Parameter-Optimization-SVM/blob/main/output.png?raw=true)
 
-Mudrika Jain <br>
-102017143<br>
-CS6
+## Submission by :
+Reena Arora <br>
+102017169<br>
+CS7
 
 
